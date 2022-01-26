@@ -1,12 +1,32 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently updating my Machine Learning skills
+- 👀 I’m an aspiring Data Analyst/ Scientist
+- 🌱 I’m currently looking to apply and expand my data skills in a working enviroment
 - 📫 How to reach me https://www.linkedin.com/in/alexgchristo/
 
-Some of my skills:
+Here is a list of my skills:
+
+
+Programming with Python, R
+
+Data Analytics with SQL, Numpy, Pandas
+
+Data Visualisation with Tableu, Matplotlib, Seaborn
+
+Data Sourcing from APIs and Web Scraping 
+
+Statistics with Scipy and Statsmodels
+
+Machine Learning with Scikit-learn
+
+Deep Learning with TensorFlow, Keras
+
+Data Product Development with GCP, AWS, Docker, MLFlow, Heroku and Streamlit
+
+Development Tools and  Version Control with GitHub and Linux Terminal
 
 \
 <img src="https://webobjects2.cdw.com/is/image/CDW/5952101?$product-main$" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/19394936/63736746-32ffa900-c852-11e9-9176-29cd2d510a1b.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZGZDuBR1wNTpIaMyFamYboFEix7z064T0tA&usqp=CAU" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" width="50" height="50">
