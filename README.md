@@ -13,17 +13,17 @@
 <img src="https://user-images.githubusercontent.com/19394936/63736746-32ffa900-c852-11e9-9176-29cd2d510a1b.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="50" height="50">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="50" height="50">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IJm23e4-m4R3bl2gvUnunOrGEEDEhDnDdg&usqp=CAU" width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="50" height="50">
 </p>
 
 - **Frameworks/Libraries:** Jupyter Notebook, Numpy, Pandas, Matplotlib, Seaborn, Django, Scikit-Learn, Scipy, Tensorflow, Keras 
 
 <p float="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZGZDuBR1wNTpIaMyFamYboFEix7z064T0tA&usqp=CAU" width="50" height="50">
+  <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" width="50" height="50">
-<img src="https://editor.analyticsvidhya.com/uploads/9112996-960917_10-working-with-large-datasets-pandas-python.png" width="50" height="50">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdVCcpHnuomtu-CFuBqToUmnzSo21dmWZgFoERbgv1L-bAyYOAxD5lCV1sH8AYsfS0ijw&usqp=CAU" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/274px-Pandas_mark.svg.png" width="50" height="50">
+<img src="https://pydata.org/wp-content/uploads/2016/07/matplotlib-logo-300.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" width="50" height="50">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNT80V5jQkjnfNYpW2N7Gyf1VY7n48-JkYMWx8JsI&s" width="50" height="50">
 
@@ -43,10 +43,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50">
 <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" width="50" height="50">
 <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" width="50" height="50">
-<img src="https://avatars.githubusercontent.com/u/8931462?s=280&v=4" width="50" height="50">
+<img src="https://images.squarespace-cdn.com/content/v1/52ca3b73e4b04a45ef2c5cb6/1551884861331-C9U2RHJQLOPL9F332X5O/AWS_blog_01.PNG" width="50" height="50">
 <img src="https://avatars.githubusercontent.com/u/6453780?s=280&v=4" width="50" height="50">
   <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" width="50" height="50">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NsI0mhG9W1man4ROvB6Lt9s8cHq5LPbryh9Uqa9IDA&s" width="50" height="50">
+  <img src="https://static-00.iconduck.com/assets.00/airflow-icon-512x512-tpr318yf.png" width="50" height="50">
 </p>
 
 
