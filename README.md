@@ -1,28 +1,14 @@
-- 👋 Hi, I’m Alex
-- 👀 I’m an aspiring Data Analyst/ Scientist
-- 🌱 I’m currently looking to apply and expand my data skills in a working enviroment
+## Who I am
+
+- 👋 Hi, I’m Alex. A Berlin based computer programmer.
+- 🌱 I’m currently improving my tech skills in full stack development.
 - 📫 How to reach me https://www.linkedin.com/in/alexgchristo/
 
-Here is a list of my skills:
+## Tech Stack
 
-
-Programming with Python, R
-
-Data Analytics with SQL, Numpy, Pandas
-
-Data Visualisation with Tableu, Matplotlib, Seaborn
-
-Data Sourcing from APIs and Web Scraping 
-
-Statistics with Scipy and Statsmodels
-
-Machine Learning with Scikit-learn
-
-Deep Learning with TensorFlow, Keras
-
-Data Product Development with GCP, AWS, Docker, MLFlow, Heroku and Streamlit
-
-Development Tools and  Version Control with GitHub and Linux Terminal
+- **Languages:** SQL, Python, R, Javascript, HTML, CSS 
+- **Frameworks/Libraries:** Matplotlib, Seaborn, Numpy, Pandas, Django, Scipy, Jupyter Notebook, Scikit-Learn, Tensorflow, Keras 
+- **Engineering:** Linux, Git, GCP, AWS, Docker, Terraform, Airflow
 
 \
 <img src="https://webobjects2.cdw.com/is/image/CDW/5952101?$product-main$" width="50" height="50">
