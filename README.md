@@ -72,7 +72,10 @@
 
 -----------
 
+
+![Codewars](https://www.codewars.com/users/AlexBabkf/badges/small)
+
 [![AlexBabkf stats](https://github-readme-stats-drab-rho.vercel.app/api/top-langs?username=alexbabkf&hide=jupyter%20notebook&theme=algolia&show_icons=true)](https://github.com/alexbabkf)
 
-** stats without jupyter notebook
+** Language stats shown without jupyter notebook
 
