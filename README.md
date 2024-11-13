@@ -1,9 +1,6 @@
 ## Who I am
 
-- 👋 Hi, I’m Alex. A Berlin based computer programmer.
-- 🌱 I’m currently improving my tech skills in full stack development.
-- 📫 How to reach me https://www.linkedin.com/in/alexgchristo/
-
+- 👋 Hi, I’m Alex. 
 ## Tech Stack
 
 - **Languages:** SQL, R, Python, Javascript, HTML, CSS 
